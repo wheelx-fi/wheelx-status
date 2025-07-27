@@ -6,8 +6,8 @@ sites:
   - name: wheelx.fi
     url: https://wheelx.fi
 
-  # assignees:
-  #   - carterethan180
+assignees:
+  - carterethan180
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
